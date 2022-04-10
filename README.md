@@ -1,6 +1,10 @@
 # Python IDLE Package Manager
 A simple package manager extension with GUI for the default Python IDLE
 ____
+## Table of contents
+1. [Installation](#Installation)
+2. [Screenshots](#Screenshots)
+____
 ## Installation
 0. Install dependencies:
 ```
