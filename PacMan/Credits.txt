@@ -1,0 +1,3 @@
+[Credits]
+"python.ico" file: https://www.iconfinder.com/Flatart
+
