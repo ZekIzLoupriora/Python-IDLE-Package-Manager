@@ -21,7 +21,7 @@ pip install -r req.txt
 6. Add the following line to the end of this list: **```("pacman", "Pac_Man"),```**  
 Now it should look like this:  
 ![Снимок экрана 2022-04-10 130524](https://user-images.githubusercontent.com/38569354/162608794-0229287c-a5d7-474a-a5db-7a0a2d90d81b.png)
-7. **Optional:** Do steps 4-6 with the **pyshell.py** file (if you don't, you will not see **PacMan** menu entry while running scritps via IDLE);
+7. **Optional:** Do steps 4-6 with the **pyshell.py** file (if you don't, you will not see **PacMan** menu entry while running scripts via IDLE);
 8. You're done! Now you can use package manager from IDLE!
 ____
 ## Screenshots
