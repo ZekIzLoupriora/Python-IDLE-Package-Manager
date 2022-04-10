@@ -6,7 +6,7 @@
 ![https://img.shields.io/github/issues/ZekIzLoupriora/Python-IDLE-Package-Manager?label=Issues](https://img.shields.io/github/issues/ZekIzLoupriora/Python-IDLE-Package-Manager?label=Issues)
 ![https://img.shields.io/github/issues-closed/ZekIzLoupriora/Python-IDLE-Package-Manager?label=Issues](https://img.shields.io/github/issues-closed/ZekIzLoupriora/Python-IDLE-Package-Manager?label=Issues)
 ![https://img.shields.io/snyk/vulnerabilities/github/ZekIzLoupriora/Python-IDLE-Package-Manager?label=Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/ZekIzLoupriora/Python-IDLE-Package-Manager?label=Vulnerabilities)  
-![https://img.shields.io/github/license/ZekIzLoupriora/Python-IDLE-Package-Manager?label=License](https://img.shields.io/github/license/ZekIzLoupriora/Python-IDLE-Package-Manager?label=License)  
+![https://img.shields.io/github/license/ZekIzLoupriora/Python-IDLE-Package-Manager?label=License&logo=License](https://img.shields.io/github/license/ZekIzLoupriora/Python-IDLE-Package-Manager?label=License&logo=License)  
 A simple package manager extension with GUI for the default Python IDLE
 ____
 ## Table of contents
