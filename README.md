@@ -4,6 +4,7 @@ ____
 ## Table of contents
 1. [Installation](#Installation)
 2. [Screenshots](#Screenshots)
+3. [FAQ](#FAQ)
 ____
 ## Installation
 0. Install dependencies:
@@ -32,3 +33,10 @@ ____
 ![Example_screenshot_1](https://user-images.githubusercontent.com/38569354/162609212-2a1b9012-d36c-4c57-a911-d71ebe8297f1.png)
 ![Example_screenshot_2](https://user-images.githubusercontent.com/38569354/162609215-ddb8c09c-a9ec-4097-99e4-472b8cc79d6f.png)
 ![Example_screenshot_3](https://user-images.githubusercontent.com/38569354/162609217-64e30b5a-18d6-42fe-b773-cf0cd63e4a59.png)
+____
+## FAQ
+**Q:** Why doesn't it work?  
+**A:** Maybe because I didn't test it thoroughly, maybe because you messed something up during an installation. In any case, feel free to open an issue with the following content:
+1. Your Python version (e.g. 3.8)
+2. Steps to reproduce your error (if you remember any)
+3. Screenshot of an error message
