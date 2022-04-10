@@ -1,0 +1,5 @@
+PyQt5==5.15.4
+pyqt5-plugins==5.15.4.2.2
+requests==2.26.0
+urllib3==1.26.7
+lxml==4.8.0
