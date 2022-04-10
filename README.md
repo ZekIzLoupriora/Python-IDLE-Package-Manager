@@ -14,8 +14,8 @@ or using **req.txt** file (preferred):
 pip install -r req.txt
 ```
 1. Clone this repo or download it as a ZIP archive;
-3. Open your Python installation directory (it is usually located in /path/to/your/user/folder/AppData/Local/Programs/Python/PythonXX-YY);
-4. Put the **PipGUI.py** and **PacMan** folder into the **/Lib/idlelib/** directory; it should look something like this:  
+2. Open your Python installation directory (it is usually located in /path/to/your/user/folder/AppData/Local/Programs/Python/PythonXX-YY);
+3. Put the **PipGUI.py** and **PacMan** folder into the **/Lib/idlelib/** directory; it should look something like this:  
 ![Снимок экрана 2022-04-10 125829](https://user-images.githubusercontent.com/38569354/162608531-7514bc24-77c8-4001-a961-8a33a08d9d41.png)
 ![Снимок экрана 2022-04-10 125801](https://user-images.githubusercontent.com/38569354/162608515-82859375-1a3a-4abd-9e18-f94d7485bc9b.png)
 4. Locate the **editor.py** file in the **/Lib/idlelib/** directory and open it with the text editor of your choice;
