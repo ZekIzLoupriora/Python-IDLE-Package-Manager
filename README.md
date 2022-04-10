@@ -1,7 +1,7 @@
 # Python IDLE Package Manager
 A simple package manager extension with GUI for the default Python IDLE
 ____
-## Table of contents
+## [Table of contents](#Table-of-contents)
 1. [Installation](#Installation)
 2. [Screenshots](#Screenshots)
 3. [FAQ](#FAQ)
@@ -27,16 +27,22 @@ pip install -r req.txt
 Now it should look like this:  
 ![Снимок экрана 2022-04-10 130524](https://user-images.githubusercontent.com/38569354/162608794-0229287c-a5d7-474a-a5db-7a0a2d90d81b.png)
 7. **Optional:** Do steps 4-6 with the **pyshell.py** file (if you don't, you will not see **PacMan** menu entry while running scripts via IDLE);
-8. You're done! Now you can use package manager from IDLE!
+8. You're done! Now you can use package manager from IDLE!  
+
+[:arrow_up:Table of contents](#Table-of-contents)
 ____
 ## Screenshots
 ![Example_screenshot_1](https://user-images.githubusercontent.com/38569354/162609212-2a1b9012-d36c-4c57-a911-d71ebe8297f1.png)
 ![Example_screenshot_2](https://user-images.githubusercontent.com/38569354/162609215-ddb8c09c-a9ec-4097-99e4-472b8cc79d6f.png)
-![Example_screenshot_3](https://user-images.githubusercontent.com/38569354/162609217-64e30b5a-18d6-42fe-b773-cf0cd63e4a59.png)
+![Example_screenshot_3](https://user-images.githubusercontent.com/38569354/162609217-64e30b5a-18d6-42fe-b773-cf0cd63e4a59.png)  
+
+[:arrow_up:Table of contents](#Table-of-contents)
 ____
 ## FAQ
 **Q:** Why doesn't it work?  
 **A:** Maybe because I didn't test it thoroughly, maybe because you messed something up during an installation. In any case, feel free to open an issue with the following content:
 1. Your Python version (e.g. 3.8)
 2. Steps to reproduce your error (if you remember any)
-3. Screenshot of an error message
+3. Screenshot of an error message  
+
+[:arrow_up:Table of contents](#Table-of-contents)
