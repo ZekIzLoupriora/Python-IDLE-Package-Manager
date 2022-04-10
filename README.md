@@ -11,9 +11,9 @@ ____
 ```
 pip install PyQt5 urllib3 requests lxml
 ```
-or using **req.txt** file (preferred):
+or using **requirements.txt** file (preferred):
 ```
-pip install -r req.txt
+pip install -r requirements.txt
 ```
 1. Clone this repo or download it as a ZIP archive;
 2. Open your Python installation directory (it is usually located at /path/to/your/user/folder/AppData/Local/Programs/Python/PythonXX-YY);
