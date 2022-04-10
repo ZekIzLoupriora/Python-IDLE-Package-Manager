@@ -15,7 +15,7 @@ Now it should look like this:
 ![Снимок экрана 2022-04-10 130524](https://user-images.githubusercontent.com/38569354/162608794-0229287c-a5d7-474a-a5db-7a0a2d90d81b.png)
 7. **Optional:** Do steps 4-6 with the **pyshell.py** file (if you don't, you will not see **PacMan** menu entry while running scritps via IDLE);
 8. You're done! Now you can use package manager from IDLE!
-
+____
 ## Screenshots
 ![Example_screenshot_1](https://user-images.githubusercontent.com/38569354/162609212-2a1b9012-d36c-4c57-a911-d71ebe8297f1.png)
 ![Example_screenshot_2](https://user-images.githubusercontent.com/38569354/162609215-ddb8c09c-a9ec-4097-99e4-472b8cc79d6f.png)
