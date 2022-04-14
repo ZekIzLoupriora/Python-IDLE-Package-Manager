@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Now it should look like this:  
 ![Снимок экрана 2022-04-10 130524](https://user-images.githubusercontent.com/38569354/162608794-0229287c-a5d7-474a-a5db-7a0a2d90d81b.png)
 8. **Optional:** Do steps 5-7 with the **pyshell.py** file (if you don't, you will not see **PacMan** menu entry while running scripts via IDLE);
-9. Locate the **config-extensions.def" file in the **/Lib/idlelib/** directory and open it with the text editor of your choice;
+9. Locate the **config-extensions.def** file in the **/Lib/idlelib/** directory and open it with the text editor of your choice;
 10. Add the following to the end of it:
 ```
 [PipGUI]
