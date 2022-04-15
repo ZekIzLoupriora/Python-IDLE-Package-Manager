@@ -43,6 +43,7 @@ enable = True
 enable_shell = True
 enable_editor = True
 ```
+![Снимок экрана 2022-04-15 174232](https://user-images.githubusercontent.com/38569354/163572058-87acf0b3-0ade-4db5-ac3a-beb37ad00164.png)  
 11. You're done! Now you can use package manager from IDLE!  
 
 [:arrow_up:Table of contents](#Table-of-contents)
